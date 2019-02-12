@@ -1,6 +1,6 @@
-﻿token=
-owner=
-prefix=
+token=NTIyNDY2OTM2MjMyMjE0NTM4.D0S7hw.uXgh-Jovd0kbIc0tt6P7LBNooTA
+owner=341321693454794762
+prefix=R
 game=
 stayinchannel=true
 songinstatus=false
